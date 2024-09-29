@@ -1,7 +1,7 @@
 ## Hello Everyone 👋
 
 
-- :🇺🇸: Army Veteran 
+- 🇺🇸: Army Veteran 
 - :scroll: Recently graduated from the University of Houston in August 2024 with an M.S. in Statistics and Data Science.
 - :mag_right: I created this space to showcase some of my projects, both as a way to document my technical journey and to serve as a proof of concept for my skills.
 - 📫 How to reach me: [Visit my LinkedIn](https://www.linkedin.com/in/clintonmckenzie007/)
